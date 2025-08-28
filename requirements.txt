@@ -1,0 +1,16 @@
+requests
+ipykernel 
+python-dotenv 
+openai 
+pydantic 
+docling 
+lancedb 
+streamlit 
+tiktoken 
+pymupdf 
+langchain_community 
+langchain-openai 
+supabase
+dotenv
+flask 
+flask-cors
