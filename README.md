@@ -7,7 +7,7 @@ Este proyecto implementa un sistema **RAG (Retrieval-Augmented Generation)** sim
 ## 🚀 Descripción
 
 El objetivo del proyecto es permitir consultas inteligentes sobre una base de conocimiento personalizada.  
-El sistema combina recuperación de información (a través de *embeddings* en Supabase) con generación de respuestas usando un modelo de lenguaje (LLM) de OpenAI.
+El sistema combina recuperación de información (a través de *embeddings* en Supabase) con generación de respuestas usando un modelo de lenguaje (LLM) de OpenAI u otros.
 
 ---
 
@@ -75,4 +75,5 @@ El sistema recuperará los documentos más relevantes y generará una respuesta 
 ├── requirements.txt           # Dependencias
 └── README.md
 ```
+
 
