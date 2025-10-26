@@ -1,3 +1,4 @@
+## RAG pipeline
 🧠 Sistema RAG con LangChain, Supabase y OpenAI
 
 Este proyecto implementa un sistema RAG (Retrieval-Augmented Generation) simple utilizando Python, LangChain, Supabase, Flask y modelos de lenguaje de OpenAI.
@@ -71,3 +72,4 @@ El sistema recuperará los documentos más relevantes y generará una respuesta 
 ├── app-text uploader.ipynb    # Subir contenido vectorizado a la base de datos
 ├── requirements.txt           # Dependencias
 └── README.md
+
